@@ -32,23 +32,23 @@
 
 
 📫 How to reach me:
-<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/its_mohasin_official/)</code>
-<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohasin-haque-759786200/)</code> 
-<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mohasin_haque)</code> 
-<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=-r3QA-s7Dw0)</code> 
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adnan_khan_3621/)</code>
+<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnan-khan-16a9bb217/)</code> 
+<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AdnanMobinKhan1)</code> 
+<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC4xgTvaPLh9OnmujLmExNOQ)</code> 
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ajad.ali.3766/)</code>
-<code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://mohasinhaque23121.medium.com/)</code>
-<code> [<img src ="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/jwnXmV2HVx)</code>
+<!-- <code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://mohasinhaque23121.medium.com/)</code> -->
+<!-- <code> [<img src ="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/jwnXmV2HVx)</code> -->
 
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Now i’m a “web developer”](https://mohasinhaque23121.medium.com/now-im-a-web-developer-676cb192f42b) -->
 <!-- - [Journey of neoG Camp level zero](https://mohasinhaque23121.medium.com/journey-of-neog-camp-level-zero-fbd4d21b5f91) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://mohasinhaque23121.medium.com/)
+<!-- ➡️ [more blog posts...](https://mohasinhaque23121.medium.com/) -->
 
 <!-- <p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohasin-Haque&theme=radical" alt="AaquibAli Github Stats" /> -->
 <!--   </p>  -->
