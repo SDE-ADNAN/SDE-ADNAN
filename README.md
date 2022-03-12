@@ -17,6 +17,10 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=tokyonight" />
+</div>
+  
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React and Backend(Django)
 - 🤝 2021 Goals: Contribute more to Open Source projects
@@ -36,6 +40,8 @@
 <code>postman</code>
 <code>restapi</code>
 <code>devtools</code>
+
+
 
 
 📫 How to reach me:
