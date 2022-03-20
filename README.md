@@ -17,6 +17,9 @@
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=tokyonight" />
 </div>
+<a href="https://github.com/SDE-ADNAN">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDE-ADNAN&layout=compact&theme=tokyonight">
+ <a/>
   
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React and Backend(Django)
@@ -51,3 +54,5 @@
  ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
