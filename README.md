@@ -14,12 +14,13 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   
- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=tokyonight" />
-</div>
-<a href="https://github.com/SDE-ADNAN">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDE-ADNAN&layout=compact&theme=tokyonight">
- <a/>
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDE-ADNAN&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" /></td>
+  </tr>
+</table>
   
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React and Backend(Django)
