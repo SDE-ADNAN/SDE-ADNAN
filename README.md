@@ -48,6 +48,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-%2305660d?style=for-the-badge&logo=django&logoColor=lightgreen" />
  <code><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23f29913.svg?style=for-the-badge&logo=postman&logoColor=black" /></code>
 <code><img alt="restapi" src="https://img.shields.io/badge/RestApi-%230eb36e.svg?style=for-the-badge&logo=restapi&logoColor=white" /></code>
+  <code><img alt="React Redux" src="https://img.shields.io/badge/React-Redux-%230eb36e.svg?style=for-the-badge&logo=react-redux" /></code>
 </p>
 
 
