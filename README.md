@@ -42,8 +42,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
  <code><img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></code>
-<code>postman</code>
-<code>restapi</code>
+<!-- <code>postman</code> -->
+ <code><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-000000.svg?style=for-the-badge&logo=postman&logoColor=orange" /></code>
+<code><img alt="restapi" src="https://img.shields.io/badge/RestApi-000000.svg?style=for-the-badge&logo=restapi&logoColor=white" /></code>
 <code>devtools</code>
 
 
