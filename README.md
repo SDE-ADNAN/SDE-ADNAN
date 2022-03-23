@@ -32,8 +32,9 @@
 - ⚡ Fun fact: I come here for the green squares
 
 ###  💻 Languages and Tools I use:   
-
+<p align="center">
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -49,7 +50,7 @@
  <code><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23f29913.svg?style=for-the-badge&logo=postman&logoColor=black" /></code>
 <code><img alt="restapi" src="https://img.shields.io/badge/RestApi-%230eb36e.svg?style=for-the-badge&logo=restapi&logoColor=white" /></code>
 <code>devtools</code>
-
+</p>
 
 
 
