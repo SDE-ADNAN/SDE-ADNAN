@@ -25,6 +25,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=dark" alt="ADNAN Khan" /></p>
   </div>
   
+  
+  
+  
+ ###  About Me
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React and Backend(Django)
 - 🤝 2022 Goals: Contribute more to Open Source projects
@@ -59,6 +63,11 @@
 <code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AdnanMobinKhan1)</code> 
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC4xgTvaPLh9OnmujLmExNOQ)</code> 
  <div align="center">
+  
+  
+  
+  
+  
  ### Show some ❤️ by starring some of the repositories!
 
 </div>
