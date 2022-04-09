@@ -32,7 +32,7 @@
  ###  About Me
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🌱 Currently learning React..
-- 🤝 2022 Goals: Contribute more to Open Source projects
+- 🤝 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I come here for the green squares
 
