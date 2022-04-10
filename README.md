@@ -16,25 +16,25 @@
 <table>
   
   
-  <tr>
+<tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=dark&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDE-ADNAN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" /></td>
-  </tr>
+</tr>
 </table>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
-  </div>
+</div>
   
   
   
   
  ###  About Me
-- 🔭A passionate and aspiring MERN stack developer from India
+- 🔭 A passionate and aspiring MERN stack developer from India.
 - 🌱 Currently learning React..
-- 🤝 2023 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come here for the green squares
+- 🤝 2023 Goals: Contribute more to Open Source projects.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I come here for the green squares.
 
 ###  💻 Languages and Tools I use:   
 <p align="center">
