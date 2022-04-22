@@ -30,8 +30,8 @@
   
   
  ###  About Me
-- 🔭 A passionate and aspiring MERN stack developer from India.
-- 🌱 Currently learning React..
+- 🔭 A passionate and aspiring MERN stack from India.
+- 🌱 Currently learning React,DSA in JAVA,etc..
 - 🤝 2023 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I come here for the dark-green squares.
