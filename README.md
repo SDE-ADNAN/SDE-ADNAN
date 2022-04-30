@@ -12,16 +12,14 @@
  </a><br><br>
  
   <img src="https://activity-graph.herokuapp.com/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-  
 <table>
-  
-  
 <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=dark&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" />
+ <td><img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=dark&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDE-ADNAN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" /></td>
 </tr>
 </table>
+
+
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
 </div>
