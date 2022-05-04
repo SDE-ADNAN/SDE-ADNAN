@@ -25,7 +25,7 @@
   
   
 
- ###  About Me
+ ###  About Me 
 - 🔭 A passionate and aspiring MERN stack from India.
 - 🌱 Currently learning React,DSA in JAVA,ASP.NET,etc..
 - 🤝 2023 Goals: Contribute more to Open Source projects.
