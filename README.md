@@ -22,7 +22,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
 </div>
-  
+
 
  ###  About Me 
 - 🔭 A passionate and aspiring MERN stack from India.
@@ -54,7 +54,6 @@
 
 #
 #
-
 
 
 📫 How to reach me:
