@@ -10,7 +10,7 @@
    <a href="https://www.linkedin.com/in/adnan-khan-16a9bb217/" alt="Linkedin Follow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </a><br><br>
- 
+
  
  
   <img src="https://activity-graph.herokuapp.com/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
@@ -20,6 +20,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDE-ADNAN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" /></td>
 </tr>
 </table>
+
+
 
 
 
