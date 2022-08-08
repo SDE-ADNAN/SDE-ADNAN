@@ -59,6 +59,8 @@
 #
 
 
+
+
 📫 How to reach me:
 <code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adnan_khan_3621/)</code>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnan-khan-16a9bb217/)</code> 
