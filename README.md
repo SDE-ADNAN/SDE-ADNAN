@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
 </div>
 
-[![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621)
+<!-- [![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621) -->
 
 
 
