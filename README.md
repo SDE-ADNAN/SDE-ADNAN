@@ -28,6 +28,11 @@
 
 <!-- [![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621) -->
 
+## Github Trophies 
+
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=SDE-ADNAN&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+
+
 
 
  ###  About Me 
