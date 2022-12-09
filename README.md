@@ -25,11 +25,11 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
 </div>
- <details>
- <summary> 📝 &nbsp; <i>Most used language</i></summary>
+
+
+ <h2>Most used language</h2>
   <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SDE-ADNAN&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
-</details>
 
 <!-- [![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621) -->
 
