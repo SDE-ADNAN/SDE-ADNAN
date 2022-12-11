@@ -4,12 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
-<a href="https://www.instagram.com/adnan_khan_3621/" alt="Instgram Follow">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/adnan-khan-16a9bb217/" alt="Linkedin Follow">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- </a><br><br>
+
 
 
 
@@ -27,8 +22,8 @@
 </div>
 
 
- <h2>Most used language</h2>
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SDE-ADNAN&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<!-- <div align="center"><p>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SDE-ADNAN&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></p></div> -->
 
 
 <!-- [![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621) -->
