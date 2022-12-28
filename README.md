@@ -36,6 +36,7 @@
 
 
  ###  About Me 
+- 🔭 A React js developer with 1.5+ years of development principles rich experience.
 - 🔭 A passionate and aspiring MERN stack from India.
 - 🌱 Currently learning React,DSA in JAVA,ASP.NET,etc..
 - 🤝 2023 Goals: Contribute more to Open Source projects.
