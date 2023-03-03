@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;ADNAN+here...;Glad+to+see+you!;Star+some+repos!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+🙋‍♂️🙋‍♂️;ADNAN+here...;Glad+to+see+you!;Star+some+repos!&center=true&size=30">
   </a>
 </h1>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
