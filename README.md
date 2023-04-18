@@ -30,9 +30,9 @@
 
 
  ###  About Me 
-- 🔭 A React js developer with 1.5+ years of development principles rich experience.
+- 🔭 A React js developer with 2.5+ years of development principles rich experience.
 - 🔭 A passionate and aspiring MERN stack from India.
-- 🌱 Currently learning React,DSA in JAVA,ASP.NET,etc..
+- 🌱 Currently learning React,DSA in JAVA,NODE JS,etc..
 - 🤝 2023 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I come here for the continuous dark-green squares.
