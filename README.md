@@ -36,6 +36,7 @@
 - 🤝 2023 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I come here for the continuous dark-green squares.
+- currently working at Monsoonfish pvt ltd.
 
 ###  💻 Languages and Tools I use:   
 <p align="center">
