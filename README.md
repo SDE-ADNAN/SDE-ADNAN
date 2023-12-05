@@ -1,4 +1,4 @@
-<h1 align="center">
+<!--<h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+🙋‍♂️🙋‍♂️;ADNAN+here...;Glad+to+see+you!;Star+some+repos!&center=true&size=30">
   </a>
@@ -13,7 +13,7 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
-</div>
+</div> -->
 
 
 <!-- <div align="center"><p>
@@ -22,7 +22,7 @@
 
 <!-- [![@sdeadnan3621's Holopin board](https://holopin.io/api/user/board?user=sdeadnan3621)](https://holopin.io/@sdeadnan3621) -->
 
-## Github Trophies 
+<!--## Github Trophies 
 
 <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=SDE-ADNAN&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 
@@ -79,4 +79,4 @@
 #
  ### Show some ❤️ by starring some of the repositories!
 
-</div>
+</div> -->
