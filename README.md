@@ -4,19 +4,19 @@
   </a>
 </h1>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDE-ADNAN&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-<table>
+<!-- <table>
 <tr>
  <td><img src="https://github-readme-stats.vercel.app/api?username=SDE-ADNAN&show_icons=true&theme=dark&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDE-ADNAN&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ADNAN KHAN" /></td>
 </tr>
-</table>
+</table>-->
 
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-ADNAN&theme=navy-gear" alt="ADNAN Khan" /></p>
 </div>
 
 
-<!-- <div align="center"><p>
+<div align="center"><p>
   <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SDE-ADNAN&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></p></div> -->
 
 
